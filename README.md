@@ -1,4 +1,4 @@
-# Java-Assignment
+# Java_project
 
 # Campus Course & Records Manager (CCRM) - MVP
 
